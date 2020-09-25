@@ -1,0 +1,223 @@
+2 entrega DNL: Variedad Central
+xpunto del problema: x**2 - x - y**2
+ypunto del problema: a*y + x*y - y**3
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+[(0, 0), (1, 0), (1 - sqrt(a + 1), -sqrt(a - sqrt(a + 1) + 1)), (1 - sqrt(a + 1), sqrt(a - sqrt(a + 1) + 1)), (sqrt(a + 1) + 1, -sqrt(a + sqrt(a + 1) + 1)), (sqrt(a + 1) + 1, sqrt(a + sqrt(a + 1) + 1))]
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+0 0
+
+1 0
+
+1 - sqrt(a + 1) -sqrt(a - sqrt(a + 1) + 1)
+
+1 - sqrt(a + 1) sqrt(a - sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 -sqrt(a + sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 sqrt(a + sqrt(a + 1) + 1)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+0 , 0
+
+1 , 0
+
+1 - sqrt(a + 1) , -sqrt(a - sqrt(a + 1) + 1)
+
+1 - sqrt(a + 1) , sqrt(a - sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , -sqrt(a + sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , sqrt(a + sqrt(a + 1) + 1)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+0 , 0
+
+1 , 0
+
+1 - sqrt(a + 1) , -sqrt(a - sqrt(a + 1) + 1)
+
+1 - sqrt(a + 1) , sqrt(a - sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , -sqrt(a + sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , sqrt(a + sqrt(a + 1) + 1)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+0 , 0
+
+1 , 0
+
+1 - sqrt(a + 1) , -sqrt(a - sqrt(a + 1) + 1)
+
+1 - sqrt(a + 1) , sqrt(a - sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , -sqrt(a + sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , sqrt(a + sqrt(a + 1) + 1)
+
+2 entrega DNL: Variedad Central
+xpunto del problema: x**2 - x - y**2
+ypunto del problema: a*y + x*y - y**3
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+0 , 0
+
+1 , 0
+
+1 - sqrt(a + 1) , -sqrt(a - sqrt(a + 1) + 1)
+
+1 - sqrt(a + 1) , sqrt(a - sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , -sqrt(a + sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , sqrt(a + sqrt(a + 1) + 1)
+
+2 entrega DNL: Variedad Central
+xpunto del problema: x**2 - x - y**2
+ypunto del problema: a*y + x*y - y**3
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+0 , 0
+
+1 , 0
+
+1 - sqrt(a + 1) , -sqrt(a - sqrt(a + 1) + 1)
+
+1 - sqrt(a + 1) , sqrt(a - sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , -sqrt(a + sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , sqrt(a + sqrt(a + 1) + 1)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+nulclina 1: xpunto = 0 sii y = -sqrt(x*(x - 1))
+nulclina 1: xpunto = 0 sii y = sqrt(x*(x - 1))
+
+nulclina 2: ypunto = 0 sii y = 0
+nulclina 2: ypunto = 0 sii y = -sqrt(a + x)
+nulclina 2: ypunto = 0 sii y = sqrt(a + x)
+
+0 , 0
+
+1 , 0
+
+1 - sqrt(a + 1) , -sqrt(a - sqrt(a + 1) + 1)
+
+1 - sqrt(a + 1) , sqrt(a - sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , -sqrt(a + sqrt(a + 1) + 1)
+
+sqrt(a + 1) + 1 , sqrt(a + sqrt(a + 1) + 1)
+
